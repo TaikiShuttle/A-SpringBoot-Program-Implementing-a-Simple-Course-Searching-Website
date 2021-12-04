@@ -1,4 +1,4 @@
-# A SpringBoot Program Implementing a Simple Course Searching Website
+# A SpringBoot Program Implementing a Simple JI Course Searching Website
 ### Basic Information
 This is a local-based program. A MySQL database is created including two tables. They pre-record the `user information` and `course information`. 
 The user can first login with his/her account and then search whether JI has this course using the course code. 
